@@ -1,0 +1,18 @@
+h1{
+    text-align:center; 
+    background-color: blue;
+}
+h2{
+    background-color: navy-blue;
+}
+
+p { text-align: center;
+   font-size: medium;
+  }
+
+
+strong { font-size: larger;
+       }
+body{ background-color: f7f3e7;
+    }
+    
