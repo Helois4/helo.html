@@ -24,5 +24,11 @@
 
 <IMG SRC="https://www.google.com/imgres?imgurl=https%3A%2F%2Fimg.freepik.com%2Fvetores-gratis%2Fpilha-de-livros-de-design-plano-desenhado-a-mao_23-2149342941.jpg&tbnid=Mcx48jdCOdJGrM&vet=12ahUKEwiy6L7Tvs-AAxWdBbkGHeakCT8QMygmegUIARDAAg..i&imgrefurl=https%3A%2F%2Fbr.freepik.com%2Ffotos-vetores-gratis%2Flivros&docid=0fILTN0CAh0EoM&w=626&h=626&q=LIVROS&ved=2ahUKEwiy6L7Tvs-AAxWdBbkGHeakCT8QMygmegUIARDAAg">
 
+<h4>lalalalalal<h4\>
+
+<p class="navy"> isso isso aquilo <strong>tata<strong\> lalalalallalalala<p\>
+
+<p class="blue"> lalalallalalalalalalla <em>titi<em\> mamamammam<p\>
+
 </body>
 </html>
