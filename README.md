@@ -30,5 +30,17 @@
 
 <p class="blue"> lalalallalalalalalalla <em>titi<em\> mamamammam<p\>
 
+<h4>Titulo 4</h4>
+<p> uysufysuydufysufdsuyd</p>
+<img class="Umbra" src-imagem">
+<ul>
+    <h5>titulo 5</h5>
+    <li> item 1</li>
+    <li>item 2</li>
+    <li>item 3</li>
+</ul>
+
+
+
 </body>
 </html>
