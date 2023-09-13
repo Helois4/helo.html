@@ -14,7 +14,7 @@
   <p> PRIMEIRO PARAFRAFO <em>EM ITALICO</em> CONTINUAÇÃO PARAGRAFO</p>
 <P> SEGUNDO PARAGRAFO</P>
 
-<H2>SEGUNDO TITULO</H2>
+<H2>Harry Potter</H2>
 
 <P> MARCADORES H1 E P SEMPRE DENTRO DO BODY</P>
 <P> <strong>EM NEGRITO</strong></P>
@@ -34,10 +34,10 @@
 <p> uysufysuydufysufdsuyd</p>
 <img class="Umbra" src-imagem">
 <ul>
-    <h5>titulo 5</h5>
-    <li> item 1</li>
-    <li>item 2</li>
-    <li>item 3</li>
+    <h5> Personagens principais</h5>
+    <li> Harry Potter</li>
+    <li> Hermione Granger/li>
+    <li>Rony Weasley</li>
 </ul>
 
 
