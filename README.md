@@ -1,45 +1,53 @@
 # helo.html<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="pt-br">
 <head>
     <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-    <link rel="stylesheet" href="Helo.css">
-
+    <title>título estrutural que aparece na aba do navegador</title>
+    <link rel="stylesheet" href="isabela.css">
 </head>
-<body>
 
-<h1>LIVROS</h1>
+<body> 
+    <header>
+        <nav>
+<a href="index.html"> home </a>
+<a href="produtos.html"> produtos </a>
+        <a href="link que voces quiserem de algum site"> contato </a>
+        </nav>
+    </header>
+    
+    <h1>Harry Potter</h1>
+    <p class="patrono"> parágrafo 1 conteúdo <em>escrito em ITÁLICO</em> SEMPRE MARCADORES VISUAIS FICAM DENTRO DO BODY</p>
+<p class="brilho"> parágrafo 2 conteúdo escrito CADA PARÁGRAFO DEVE SER ABERTO E FECHADO</p>
+    
+    <h2> TÍTULO DOIS </h2>
+<p> parágrafo 3 conteúdo escrito NÃO ESQUECER DE SEMPRE DEIXAR OS MARCADORES H1 E P DENTRO DO BODY, OU SEJA, ACIMA DO SEU FECHAMENTO E ABAIXO DA SUA ABERTURA </p>
+<p> <strong> parágrafo 4 com conteúdo escrito em negrito, SE QUISER PODE SER APENAS UMA FRASE OU PALAVRA EM NEGRITO </strong> </p>
+    
+    <h3> TÍTULO TRÊS</h3>
+    <p>parágrafo adendo</p>
+    
+    <div class="imagemcentralizada">
+<img class="imagem1" src="abertura.webp"><header>
+        <nav>
+<a href="index.html"> home </a>
+<a href="produtos.html"> produtos </a>
+        <a href="link que voces quiserem de algum site"> contato </a>
+        </nav>
+    </header>
+    </div>
 
-  <p> PRIMEIRO PARAFRAFO <em>EM ITALICO</em> CONTINUAÇÃO PARAGRAFO</p>
-<P> SEGUNDO PARAGRAFO</P>
-
-<H2>Harry Potter</H2>
-
-<P> MARCADORES H1 E P SEMPRE DENTRO DO BODY</P>
-<P> <strong>EM NEGRITO</strong></P>
-
-<H3> TITULO 3</H3>
-<P>PARAGRAFO</P>
-
-<IMG SRC="https://www.google.com/imgres?imgurl=https%3A%2F%2Fimg.freepik.com%2Fvetores-gratis%2Fpilha-de-livros-de-design-plano-desenhado-a-mao_23-2149342941.jpg&tbnid=Mcx48jdCOdJGrM&vet=12ahUKEwiy6L7Tvs-AAxWdBbkGHeakCT8QMygmegUIARDAAg..i&imgrefurl=https%3A%2F%2Fbr.freepik.com%2Ffotos-vetores-gratis%2Flivros&docid=0fILTN0CAh0EoM&w=626&h=626&q=LIVROS&ved=2ahUKEwiy6L7Tvs-AAxWdBbkGHeakCT8QMygmegUIARDAAg">
-
-<h4>lalalalalal<h4\>
-
-<p class="navy"> isso isso aquilo <strong>tata<strong\> lalalalallalalala<p\>
-
-<p class="blue"> lalalallalalalalalalla <em>titi<em\> mamamammam<p\>
-
-<h4>Titulo 4</h4>
-<p> uysufysuydufysufdsuyd</p>
-<img class="Umbra" src-imagem">
-<ul>
-    <h5> Personagens principais</h5>
-    <li> Harry Potter</li>
-    <li> Hermione Granger/li>
-    <li>Rony Weasley</li>
+    <ul>
+    <h4> titulo lista</h4>
+    <li class="lista"> item 1</li>
+    <li class="lista"> item 2</li>
+    <li class="lista"> item 3</li>
 </ul>
 
+</body>
+</html>
 
 
 </body>
