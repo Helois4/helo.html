@@ -6,7 +6,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>título estrutural que aparece na aba do navegador</title>
-    <link rel="stylesheet" href="isabela.css">
+    <link rel="stylesheet" href="Helo.css">
 </head>
 
 <body> 
@@ -19,7 +19,7 @@
     </header>
     
     <h1>Harry Potter</h1>
-    <p class="patrono"> parágrafo 1 conteúdo <em>escrito em ITÁLICO</em> SEMPRE MARCADORES VISUAIS FICAM DENTRO DO BODY</p>
+    <p class="patrono"> O mundo de Harry Potter é uma criação mágica da <em>escritora britânica J.K. Rowling<em>, que ganhou vida nas páginas dos livros e nas telas de cinema, encantando milhões de fãs ao redor do mundo.
 <p class="brilho"> parágrafo 2 conteúdo escrito CADA PARÁGRAFO DEVE SER ABERTO E FECHADO</p>
     
     <h2> TÍTULO DOIS </h2>
