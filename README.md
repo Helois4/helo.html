@@ -24,6 +24,8 @@
     
     <h2>Sobre Hogwarts </h2>
 <p> A maior parte da história de Harry Potter se desenrola em Hogwarts. É onde Harry faz amizades, recebe treinamento mágico, descobre segredos sobre sua família e enfrenta inúmeras ameaças.</p>
+
+<img
     
     <h3>Fundação e Localização</h3>
     <p>Hogwarts foi fundada há mais de mil anos por quatro bruxos notáveis: <strong>Godric Gryffindor, Helga Hufflepuff, Rowena Ravenclaw e Salazar Slytherin</strong>. A escola está localizada em algum lugar da Escócia, e sua localização exata é protegida por encantamentos que a tornam invisível para os trouxas (pessoas não-mágicas).</p>
