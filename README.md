@@ -19,15 +19,14 @@
     </header>
     
     <h1>Harry Potter</h1>
-    <p class="patrono"> O mundo de Harry Potter é uma criação mágica da <em>escritora britânica J.K. Rowling<em>, que ganhou vida nas páginas dos livros e nas telas de cinema, encantando milhões de fãs ao redor do mundo.
-<p class="brilho"> parágrafo 2 conteúdo escrito CADA PARÁGRAFO DEVE SER ABERTO E FECHADO</p>
+    <p class="patrono"> O mundo de Harry Potter é uma criação mágica da <em>escritora britânica J.K. Rowling<em>, que ganhou vida nas páginas dos livros e nas telas de cinema, encantando milhões de fãs ao redor do mundo.</p>
+<p class="grifo">O protagonista da série, Harry Potter, é um jovem bruxo que descobre sua herança mágica aos 11 anos, quando recebe uma carta de admissão para a Escola de Magia e Bruxaria de Hogwarts. Hogwarts é um dos principais cenários da história e é onde Harry e seus amigos, Ron Weasley e Hermione Granger, passam grande parte de suas aventuras.Ao longo dos sete livros da série, Harry e seus amigos enfrentam uma série de desafios e inimigos, incluindo o terrível bruxo das trevas Lord Voldemort, que matou os pais de Harry quando ele era apenas um bebê e deixou uma cicatriz em forma de raio em sua testa.</p>
     
-    <h2> TÍTULO DOIS </h2>
-<p> parágrafo 3 conteúdo escrito NÃO ESQUECER DE SEMPRE DEIXAR OS MARCADORES H1 E P DENTRO DO BODY, OU SEJA, ACIMA DO SEU FECHAMENTO E ABAIXO DA SUA ABERTURA </p>
-<p> <strong> parágrafo 4 com conteúdo escrito em negrito, SE QUISER PODE SER APENAS UMA FRASE OU PALAVRA EM NEGRITO </strong> </p>
+    <h2>Sobre Hogwarts </h2>
+<p> A maior parte da história de Harry Potter se desenrola em Hogwarts. É onde Harry faz amizades, recebe treinamento mágico, descobre segredos sobre sua família e enfrenta inúmeras ameaças.</p>
     
-    <h3> TÍTULO TRÊS</h3>
-    <p>parágrafo adendo</p>
+    <h3>Fundação e Localização</h3>
+    <p>Hogwarts foi fundada há mais de mil anos por quatro bruxos notáveis: <strong>Godric Gryffindor, Helga Hufflepuff, Rowena Ravenclaw e Salazar Slytherin</strong>. A escola está localizada em algum lugar da Escócia, e sua localização exata é protegida por encantamentos que a tornam invisível para os trouxas (pessoas não-mágicas).</p>
     
     <div class="imagemcentralizada">
 <img class="imagem1" src="abertura.webp"><header>
