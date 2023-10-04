@@ -25,7 +25,7 @@
     <h2>Sobre Hogwarts </h2>
 <p> A maior parte da história de Harry Potter se desenrola em Hogwarts. É onde Harry faz amizades, recebe treinamento mágico, descobre segredos sobre sua família e enfrenta inúmeras ameaças.</p>
 
-<img class="imagem 1"> https://www.google.com/url?sa=i&url=https%3A%2F%2Fbr.ign.com%2Fhogwarts-legacy%2F106796%2Fnews%2Fhogwarts-legacy-versoes-de-ps4-e-xbox-one-sao-adiadas-veja-nova-data&psig=AOvVaw0BzPdhYCJFlGY-pXDzAwnP&ust=1696450455422000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLD48P7N1YEDFQAAAAAdAAAAABAE</img>
+<img class="imagem 1" src= "https://images.ctfassets.net/usf1vwtuqyxm/3QQaEkThAnIAiXveGhJYD9/f79a571dbe9fd456d65e783040601fdc/hogwarts-castle-.jpg?fm=jpg&q=70&w=2560"> 
     
     <h3>Fundação e Localização</h3>
     <p>Hogwarts foi fundada há mais de mil anos por quatro bruxos notáveis: <strong>Godric Gryffindor, Helga Hufflepuff, Rowena Ravenclaw e Salazar Slytherin</strong>. A escola está localizada em algum lugar da Escócia, e sua localização exata é protegida por encantamentos que a tornam invisível para os trouxas (pessoas não-mágicas).</p>
@@ -47,11 +47,11 @@
 
 
     <div class="imagemcentralizada">
-<img class="imagem1" src="abertura.webp"><header>
+<header>
         <nav>
 <a href="index.html"> home </a>
 <a href="produtos.html"> produtos </a>
-        <a href="link que voces quiserem de algum site"> contato </a>
+        <a href="https://www.wizardingworld.com/"> site oficial de Harry Potter </a>
         </nav>
     </header>
     </div>
