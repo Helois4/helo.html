@@ -25,11 +25,27 @@
     <h2>Sobre Hogwarts </h2>
 <p> A maior parte da história de Harry Potter se desenrola em Hogwarts. É onde Harry faz amizades, recebe treinamento mágico, descobre segredos sobre sua família e enfrenta inúmeras ameaças.</p>
 
-<img
+<img> https://www.google.com/url?sa=i&url=https%3A%2F%2Fbr.ign.com%2Fhogwarts-legacy%2F106796%2Fnews%2Fhogwarts-legacy-versoes-de-ps4-e-xbox-one-sao-adiadas-veja-nova-data&psig=AOvVaw0BzPdhYCJFlGY-pXDzAwnP&ust=1696450455422000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLD48P7N1YEDFQAAAAAdAAAAABAE</img>
     
     <h3>Fundação e Localização</h3>
     <p>Hogwarts foi fundada há mais de mil anos por quatro bruxos notáveis: <strong>Godric Gryffindor, Helga Hufflepuff, Rowena Ravenclaw e Salazar Slytherin</strong>. A escola está localizada em algum lugar da Escócia, e sua localização exata é protegida por encantamentos que a tornam invisível para os trouxas (pessoas não-mágicas).</p>
     
+    <h4>Estrutura e Edifícios</h4>
+    <p>A escola é composta por vários edifícios impressionantes,onde a maioria das aulas e eventos importantes ocorrem. Os estudantes também encontram a Casa dos Gritos, uma torre alta e assustadora, e a Floresta Proibida, um local cheio de perigos mágicos.</p>
+
+    <h5>Casas de Hogwarts</h5>
+    <p>Hogwarts é dividida em quatro casas, cada uma com suas próprias características e valores. Os estudantes são selecionados para suas casas no início do primeiro ano por meio do Chapéu Seletor. As casas são:</p>
+
+      <ul>
+    <h6>Casas de Hogwarts </h6>
+    <li class="lista">Grifinória (coragem e bravura)</li>
+    <li class="lista">Sonserina (poder e ambição)</li>
+    <li class="lista">Corvinal (inteligência e sabedoria)</li>
+    <li class="lista">Lufa-Lufa (lealdade e paciência)</li>
+</ul>
+
+
+
     <div class="imagemcentralizada">
 <img class="imagem1" src="abertura.webp"><header>
         <nav>
@@ -39,13 +55,6 @@
         </nav>
     </header>
     </div>
-
-    <ul>
-    <h4> titulo lista</h4>
-    <li class="lista"> item 1</li>
-    <li class="lista"> item 2</li>
-    <li class="lista"> item 3</li>
-</ul>
 
 </body>
 </html>
