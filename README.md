@@ -19,13 +19,13 @@
     </header>
     
     <h1>Harry Potter</h1>
-    <p class="patrono"> O mundo de Harry Potter é uma criação mágica da <em>escritora britânica J.K. Rowling<em>, que ganhou vida nas páginas dos livros e nas telas de cinema, encantando milhões de fãs ao redor do mundo.</p>
+    <p class="patrono"> O mundo de Harry Potter é uma criação da <em>escritora britânica J.K. Rowling<em>, que ganhou vida nas páginas dos livros e nas telas de cinema, encantando milhões de fãs ao redor do mundo.</p>
 <p class="grifo">O protagonista da série, Harry Potter, é um jovem bruxo que descobre sua herança mágica aos 11 anos, quando recebe uma carta de admissão para a Escola de Magia e Bruxaria de Hogwarts. Hogwarts é um dos principais cenários da história e é onde Harry e seus amigos, Ron Weasley e Hermione Granger, passam grande parte de suas aventuras.Ao longo dos sete livros da série, Harry e seus amigos enfrentam uma série de desafios e inimigos, incluindo o terrível bruxo das trevas Lord Voldemort, que matou os pais de Harry quando ele era apenas um bebê e deixou uma cicatriz em forma de raio em sua testa.</p>
     
     <h2>Sobre Hogwarts </h2>
 <p> A maior parte da história de Harry Potter se desenrola em Hogwarts. É onde Harry faz amizades, recebe treinamento mágico, descobre segredos sobre sua família e enfrenta inúmeras ameaças.</p>
 
-<img> https://www.google.com/url?sa=i&url=https%3A%2F%2Fbr.ign.com%2Fhogwarts-legacy%2F106796%2Fnews%2Fhogwarts-legacy-versoes-de-ps4-e-xbox-one-sao-adiadas-veja-nova-data&psig=AOvVaw0BzPdhYCJFlGY-pXDzAwnP&ust=1696450455422000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLD48P7N1YEDFQAAAAAdAAAAABAE</img>
+<img class="imagem 1"> https://www.google.com/url?sa=i&url=https%3A%2F%2Fbr.ign.com%2Fhogwarts-legacy%2F106796%2Fnews%2Fhogwarts-legacy-versoes-de-ps4-e-xbox-one-sao-adiadas-veja-nova-data&psig=AOvVaw0BzPdhYCJFlGY-pXDzAwnP&ust=1696450455422000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLD48P7N1YEDFQAAAAAdAAAAABAE</img>
     
     <h3>Fundação e Localização</h3>
     <p>Hogwarts foi fundada há mais de mil anos por quatro bruxos notáveis: <strong>Godric Gryffindor, Helga Hufflepuff, Rowena Ravenclaw e Salazar Slytherin</strong>. A escola está localizada em algum lugar da Escócia, e sua localização exata é protegida por encantamentos que a tornam invisível para os trouxas (pessoas não-mágicas).</p>
