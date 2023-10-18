@@ -13,7 +13,7 @@
         <nav>
 <a href="index.html"> home </a>
 <a href="produtos.html"> produtos </a>
-        <a href="https://www.youtube.com/watch?v=odS4_rGOQ9I"> filme barbie </a>
+        <a href=https://www.hbomax.com/br/pt> Streaming que contém todos os filmes e + </a>
         </nav>
     </header>
     
@@ -22,23 +22,24 @@
     <ul div class="lista">
          <div class="centralizar">
     <li> 
-        <h2>Harry Potter: E a pedra filosofal</h2>
+        <h2>Harry Potter e a pedra filosofal</h2>
         
-        <img class="imagem1" src="sereia.jpg">
+        <img class="imagem1" src="https://upload.wikimedia.org/wikipedia/pt/1/1d/Harry_Potter_Pedra_Filosofal_2001.jpg">
         
-        <p>Brooklyn, Malibu e as irmãs Skipper, Stacie e Chelsea embarcam em uma aventura submarina enquanto se transformam em sereias.</p>
+        <p>Harry Potter é um garoto órfão que vive infeliz com seus tios, os Dursleys. Ele recebe uma carta contendo um convite para ingressar em Hogwarts, uma famosa escola especializada em formar jovens bruxos. Inicialmente, Harry é impedido de ler a carta por seu tio, mas logo recebe a visita de Hagrid, o guarda-caça de Hogwarts, que chega para levá-lo até a escola. Harry adentra um mundo mágico que jamais imaginara, vivendo diversas aventuras com seus novos amigos, Rony Weasley e Hermione Granger.</p>
     </li>
         
     <li> 
-        <h2> LAGO DOS CISNES</h2>
+        <h2> Harry Potter e a câmara secreta</h2>
         
-        <img class="imagem1" src="Barbie_of_Swan_Lake.jpg">
+        <img class="imagem1" src="https://media.fstatic.com/7obJQnVrijRwGSUOjaJYJpb6KhY=/322x478/smart/filters:format(webp)/media/movies/covers/2011/06/cf81510c617c5438dce5f27ba74fe537_4.jpg">
         
-        <p>Inspirado no balé O Lago dos Cisnes, de Piotr Ilitch Tchaikovski, o longa segue Odette (Barbie), uma moça humilde que é amaldiçoada por um feiticeiro, Rothbart, e transformada em um cisne.</p>
+        <p>
+Após as sofríveis férias na casa dos tios, Harry Potter se prepara para voltar a Hogwarts e começar seu segundo ano na escola de bruxos. Na véspera do início das aulas, a estranha criatura Dobby aparece em seu quarto e o avisa de que voltar é um erro e que algo muito ruim pode acontecer se Harry insistir em continuar os estudos de bruxaria. O garoto, no entanto, está disposto a correr o risco e se livrar do lar problemático.</p>
     </li>
         
     <li> 
-        <h2> BARBIE E O QUEBRA NOZES</h2>
+        <h3> Harry Potter e o prisioneiro de Azkaban</h3>
         
         <img class="imagem1" src="Barbie_Nutcracker_2001.jpg">
         
@@ -49,3 +50,4 @@
     </ul>
 </body>
 </html>
+
