@@ -1,13 +1,13 @@
 h1 {
     text-align:center;
-    background-color: dark-red;
+    background-color: #880808;
 }
 h2{
     text-align: center;
 }
 h3{
     font-style: oblique;
-    background-color: blue;
+    background-color: #AA4A44;
     text-align: center;
 }
 
@@ -20,7 +20,7 @@ strong {
 }
 
 body {
-    background-color: #FAF9F6;
+    background-color: #F9F6EE;
 }
 .imagem1 {
     width: 200px;
@@ -30,7 +30,7 @@ body {
 }
 
 .Patrono {
-    background-color: forestgreen
+    background-color: 
 
 }
 .grifo {
