@@ -5,14 +5,14 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>título estrutural que aparece na aba do navegador</title>
-    <link rel="stylesheet" href="produtos.css">
+    <link rel="stylesheet" href="segundo.css">
 </head>
 <body>
     
 <header>
         <nav>
 <a href="index.html"> home </a>
-<a href="produtos.html"> produtos </a>
+<a href="segundo.html"> produtos </a>
         <a href=https://www.hbomax.com/br/pt> Streaming que contém todos os filmes e + </a>
         </nav>
     </header>
@@ -41,11 +41,20 @@ Após as sofríveis férias na casa dos tios, Harry Potter se prepara para volta
     <li> 
         <h3> Harry Potter e o prisioneiro de Azkaban</h3>
         
-        <img class="imagem1" src="Barbie_Nutcracker_2001.jpg">
+        <img class="imagem1" src="https://upload.wikimedia.org/wikipedia/pt/thumb/b/be/Harry_Potter_Prisioneiro_Azkaban_2004.jpg/250px-Harry_Potter_Prisioneiro_Azkaban_2004.jpg">
         
-        <p>Clara ganha um lindo soldadinho de madeira de sua tia favorita. </p> 
-           <p> Na mesma noite, o soldado ganha vida para protege-la do Rato Rei, que invade sua sala. Ela acorda e ajuda o Quebra-Nozes, mas o Rato Rei a encolhe com uma terrível magia. </p>
-    </li>
+        <p>É o início do terceiro ano na escola de bruxaria Hogwarts. Harry, Ron e Hermione têm muito o que aprender. Mas uma ameaça ronda a escola e ela se chama Sirius Black. Após doze anos encarcerado na prisão de Azkaban, ele consegue escapar e volta para vingar seu mestre, Lord Voldemort. Para piorar, os Dementores, guardas supostamente enviados para proteger Hogwarts e seguir os passos de Black, parecem ser ameaças ainda mais perigosas.</p>
+</li>
+
+<li>
+ <h4> Harry Potter e o cálice de fogo </h4>
+<img class="imagem1" src="https://br.web.img3.acsta.net/medias/nmedia/18/93/87/95/20282862.jpg">
+
+<p>Harry retorna para seu quarto ano na Escola de Magia e Bruxaria de Hogwarts, junto com os seus amigos Ron e Hermione. Desta vez, acontece um torneio entre as três maiores escola de magia, com um participante selecionado de cada escola, pelo Cálice de Fogo. O nome de Harry aparece, mesmo não tendo se inscrito, e ele precisa competir.</p>
+</li>
+
+<li>
+
          </div>
     </ul>
 </body>
